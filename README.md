@@ -200,7 +200,7 @@ PORT=5000
 
 Frontend does not require an .env unless you add API URL customization.
 
-🧪 6. Running Tests (Optional for Bonus Marks)
+🧪 6. Running Tests 
 Backend tests:
 npm run test
 npm run test:coverage
